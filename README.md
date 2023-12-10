@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @srmk
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning fullstack
+Hi there, I'm Manikandan! 👋
+I'm passionate about coding. Currently doing App and Web Development. Welcome to my GitHub profile!
 
-<!---
-srmk/srmk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Skills
+React, React-Native, Angular, Flutter, JavaScript, TypeScript, Dart, HTML, CSS/SCSS, Python, Node.js, MongoDB.
