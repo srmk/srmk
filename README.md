@@ -1,2 +1,2 @@
 Hi there, I'm Manikandan! 👋
-I'm passionate about coding. Currently doing App and Web Development. Welcome to my GitHub profile!
+I'm passionate about coding. Currently doing AI Engineering. Welcome to my GitHub profile!
